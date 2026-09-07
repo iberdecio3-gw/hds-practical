@@ -4,8 +4,9 @@
 hds-practical/
 ├── README.md
 ├── .gitignore
-├── environment.yml
-├── renv.lock
+├── repro-demo
+    ├── environment.yml
+    ├── renv.lock
 ├── src/
 ├── data/
 └── AI_USAGE.md
