@@ -31,11 +31,11 @@ hds-practical/
 
 ## Part 1 — Python environments with conda/mamba 
 
-# Outputs: repro-demo/conda-version
+### Outputs: repro-demo/conda-version
 - analyze.py
 - environment.yml
 
-# Steps
+### Steps
 1. Create a directory (mkdir) to practice using conda/mamba. Activate a new environment (mamba create --> conda activate) with packages python=3.12 pandas=2.2
 2. Use a practice script [repro-demo/conda-version/analyze.py]
 3. Export to environment for reproducibility (conda env export --from-history)
@@ -45,7 +45,7 @@ hds-practical/
    - AI conversation documented in AI_USAGE.md
 
 
-## Part 2 — Python environments with uv
+# Part 2 — Python environments with uv
 
 ## Part 3 — R environments with renv
 
