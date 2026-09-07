@@ -61,7 +61,7 @@ hds-practical/
 - analyze.R
 - renv.lock
 - activate.R
-- 
+  
 ### Steps:
 1. Switch to RStudio. Using the terminal, create a new directory for R and initialize renv
 2. Create your script [repro-demo/renv-version/analyze.R] and save it.
