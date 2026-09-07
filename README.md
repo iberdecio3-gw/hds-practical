@@ -5,7 +5,10 @@ hds-practical/
 ├── README.md
 ├── .gitignore
 ├── repro-demo
-    ├── environment.yml
+    ├── Conda Version
+        ├── environment.yml
+    ├── UV Version
+    ├── Docker Version
     ├── renv.lock
 ├── src/
 ├── data/
