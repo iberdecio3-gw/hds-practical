@@ -3,6 +3,7 @@
 ```text
 hds-practical/
 ├── README.md
+├── AI_USAGE.md
 ├── .gitignore
 ├── repro-demo
     ├── Conda Version
@@ -23,8 +24,7 @@ hds-practical/
 ├── src/
     ├── analyze.R
     ├── analyze.py
-├── data/
-└── AI_USAGE.md
+└── patients_by_age.csv
 ```
 
 ## Part 1 — Python environments with conda/mamba 
