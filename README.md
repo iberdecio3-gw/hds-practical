@@ -80,6 +80,5 @@ hds-practical/
 
 
 ## Graduate Addendum - Workflow Commentary:
-
-
+I found the python uv workflow to be easiest, even though I am the most familiar with R. Using python, dependencies are added through the CL and the lockfile is updated automatically. It took a few tries for my renv to work, and required a small amount of troubleshooting to take a snapshot. For a real project, I'd be more likely to use renv due to the fact that I use it more, but I think I'd prefer to work in Python. 
 
