@@ -5,26 +5,21 @@ hds-practical/
 ├── README.md
 ├── AI_USAGE.md
 ├── .gitignore
-├── repro-demo
-    ├── Conda Version
-        ├── environment.yml
-        ├── analyze.py
-        ├── Dockerfile
-    ├── UV Version
-        ├── uv.lock
-        ├── pyproject.toml
-        ├── python-version
-    ├── Renv Version
-        ├── renv.lock
-        ├── analyse.R
-        ├── renv-version
-            ├── .gitignore
-            ├── activate.R
-            ├── settings.json
-├── src/
-    ├── analyze.R
+├── Dockerfile
+├── environment.yml
+├── pyproject.toml
+├── uv.lock
+├── renv.lock
+├── .python-version
+├── renv/
+│   ├── activate.R
+│   └── settings.json
+├── data/
+│   ├── patients.csv
+│   └── patients_by_age.csv
+└── src/
     ├── analyze.py
-└── patients_by_age.csv
+    └── analyze.R
 ```
 
 ## Part 1 — Python environments with conda/mamba 
